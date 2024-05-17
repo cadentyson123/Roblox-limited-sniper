@@ -1,5 +1,5 @@
 {
-  "cookie": "",
+  "cookie": ".ROBLOSECURITY",
   "total_ips": 10,
   "restart_after_config": {
       "total_errors": 0,
